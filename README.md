@@ -1,24 +1,26 @@
-https://roadmap.sh/projects/single-page-cv
+# Front-end Projects from Roadmap.sh
 
-Key requirements for this project:
+This repository contains front-end projects built following the [roadmap.sh](https://roadmap.sh/) front-end developer path.
 
-Semantic HTML: Use appropriate HTML tags to structure your CV.
+## Projects List
 
-SEO Meta Tags: Include essential meta tags for SEO.
+[Single Page CV](https://roadmap.sh/projects/single-page-cv)
 
-Open Graph (OG) Tags: Add OG tags for better social media sharing.
+Click any of the images below to view the readme and live demo of the project.
 
-Favicon: Add a favicon for your CV page.
+<p align="left">
+  <a href='./Single-Page CV/'>
+    <img width="48%" src="./assets/images/Single-page-CV.png" alt="single page cv" />
+  </a>
+  <!-- Future projects will be added here -->
+</p>
 
-The structure of your CV should be easily understandable and ready for styling in a future project.
+<!-- Additional project rows will be added as more projects are completed -->
 
-Submission Checklist:
-Semantically correct HTML structure.
+## Getting Started
 
-Single-page layout with sections for education, skills, and career history.
+Each project folder contains its own README with specific instructions. The projects are organized in order of completion from the roadmap.sh front-end path.
 
-SEO meta tags in the head section.
+## Contributing
 
-OG tags for better social media sharing.
-
-A favicon linked in the head section.
+Feel free to explore the projects, provide feedback, or use them as references for your own front-end development journey!
