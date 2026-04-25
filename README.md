@@ -4,19 +4,24 @@ This repository contains front-end projects built following the [roadmap.sh](htt
 
 ## Projects List
 
-[Single Page CV](https://roadmap.sh/projects/single-page-cv)
+[Single Page CV](https://roadmap.sh/projects/single-page-cv),[Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
 
-[Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
+[Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
 
 Click any of the images below to view the readme and live demo of the project.
 
 <p align="left">
-  <a href='/01-Single-Page CV/'>
-    <img width="45%" src="./assets/images/Single-page-CV.png" alt="Single Page" />
-  </a>
-  <a href='/02-basic-html-website/'>
-    <img width="45%" src="./assets/images/Basic Html Website.png" alt="Basic Pages" />
-  </a>
+    <a href='/01-Single-Page CV/'>
+      <img width="45%" src="./assets/images/Single-page-CV.png" alt="Single Page" />
+    </a>
+    <a href='/02-basic-html-website/'>
+      <img width="45%" src="./assets/images/Basic Html Website.png" alt="Basic Pages" />
+    </a>
+</p>
+<p align="left">
+    <a href='/03-personal-portfolio/'>
+      <img width="45%" src="./assets/images/image.png" alt="Personal Portfolio" />
+    </a>
 </p>
 <!-- Additional project rows will be added as more projects are completed -->
 
