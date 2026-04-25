@@ -11,13 +11,13 @@ This repository contains front-end projects built following the [roadmap.sh](htt
 Click any of the images below to view the readme and live demo of the project.
 
 <p align="left">
-  <a href='./Single-Page CV/'>
-    <img width="48%" src="./assets/images/Single-page-CV.png" alt="single page cv" />
+  <a href='/01-Single-Page CV/'>
+    <img width="45%" src="./assets/images/Single-page-CV.png" alt="Single Page" />
   </a>
-  <a href='./02-basic-html-website/'>
-    <img width="48%" src="./assets/images/Basic Html Website.png">
+  <a href='/02-basic-html-website/'>
+    <img width="45%" src="./assets/images/Basic Html Website.png" alt="Basic Pages" />
+  </a>
 </p>
-
 <!-- Additional project rows will be added as more projects are completed -->
 
 ## Getting Started
